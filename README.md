@@ -1,3 +1,10 @@
+# About the repository
+
+This project is created by following the guide by maxschwarzmueller https://github.com/maxschwarzmueller
+
+The guide repo https://github.com/academind/react-complete-guide-code .\
+The video guide https://www.youtube.com/playlist?list=PLm-7ZORXrfaKnereEiLDZpUlwoyuAe85m
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
